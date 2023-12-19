@@ -1,0 +1,6 @@
+:root {
+    --tund-goy-reng:#3A68B8;
+}
+header .paraqraf{
+  color: var(--tund-goy-reng);  
+}
